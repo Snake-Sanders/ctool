@@ -4,18 +4,19 @@ TODO: Write a description here
 
 ## Creation
 
-* Created an empty repo in GitHub
-* Created a local crystal app
+- [x] Created an empty repo in GitHub
+- [x] Created a local crystal app
 _crystal init app ctool_
+- [x] Commit changes to local branch
+_git add ._
+_git commit -m "Adding crystal project"_
 
-* Push the project to GitHub
+- [x] Push the project to GitHub
 _git remote add origin https://github.com/Snake-Sanders/ctool.git_
 _git push -u origin master_
 
 
 ## Installation
- - [x] Created a local crystal app
-
 
 TODO: Write installation instructions here
 

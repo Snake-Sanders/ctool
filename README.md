@@ -4,6 +4,9 @@ TODO: Write a description here
 
 ## Creation
 
+Based on the Crystal tutorial:
+https://s3-eu-west-1.amazonaws.com/www.crystalforrubyists.com/crystal-for-rubyists.pdf
+
 - [x] Created an empty repo in GitHub
 - [x] Created a local crystal app
 _crystal init app ctool_

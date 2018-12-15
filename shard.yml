@@ -1,0 +1,13 @@
+name: ctool
+version: 0.1.0
+
+authors:
+  - Snake-Sanders <elmarian22@gmail.com>
+
+targets:
+  ctool:
+    main: src/ctool.cr
+
+crystal: 0.27.0
+
+license: MIT
